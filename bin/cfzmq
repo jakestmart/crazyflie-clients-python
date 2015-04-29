@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-
+"""ZMQ TEST PUSH"""
 from __future__ import absolute_import
 
 APP_NAME = "cfzmq"
